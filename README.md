@@ -1,6 +1,9 @@
 # Cryptoscripts
 A collection of various cryptocurrency related code
 
+#### Filter by Reputation - SteemIt
+![Filter by Reputation - SteemIt](http://i.imgur.com/qw2FKXB.png)
+
 #### Filter by Tag - SteemIt
 ![Filter by Tag - SteemIt](http://i.imgur.com/AAeo3lZ.png)
 
