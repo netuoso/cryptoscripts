@@ -6,10 +6,10 @@ A collection of various cryptocurrency related code
 ## SteemIt.com
 
 #### Add Color to Follow/Unfollow Labels
-![Add Color to Follow/Unfollow Labels - SteemIt](http://imgur.com/a/iJYvb)
+![Add Color to Follow/Unfollow Labels - SteemIt](http://i.imgur.com/OFjjbjj.png)
 
 #### Hide Resteemed Posts
-![Hide Resteemed Posts - SteemIt](http://imgur.com/a/36mdY)
+![Hide Resteemed Posts - SteemIt](http://i.imgur.com/A3oZmUf.png)
 
 #### Hide Voted Posts
 ![Hide Voted Posts - SteemIt](http://i.imgur.com/gUiCuBV.png)
