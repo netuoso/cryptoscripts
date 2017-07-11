@@ -1,0 +1,12 @@
+[Unit]
+Description=STEEM wallet daemon
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/
+ExecStart=/usr/local/bin/cli_wallet -s ws://localhost:8090 -H 127.0.0.1:8092 --rpc-http-allowip=127.0.0.1
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
