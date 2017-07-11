@@ -1,0 +1,12 @@
+[Unit]
+Description=STEEM price_feed daemon
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/steemfeed-js
+ExecStart=/usr/bin/npm start
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
