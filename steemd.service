@@ -1,0 +1,12 @@
+[Unit]
+Description=STEEM daemon
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/
+ExecStart=/usr/local/bin/steemd --rpc-endpoint
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
